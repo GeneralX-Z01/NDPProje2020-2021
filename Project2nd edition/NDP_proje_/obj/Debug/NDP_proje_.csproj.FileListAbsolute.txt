@@ -1,0 +1,20 @@
+C:\Users\omarg\source\repos\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.csprojAssemblyReference.cache
+C:\Users\omarg\source\repos\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.Form1.resources
+C:\Users\omarg\source\repos\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.Properties.Resources.resources
+C:\Users\omarg\source\repos\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.csproj.GenerateResource.cache
+C:\Users\omarg\source\repos\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.csproj.CoreCompileInputs.cache
+C:\Users\omarg\source\repos\NDP_proje_\NDP_proje_\bin\Debug\NDP_proje_.exe.config
+C:\Users\omarg\source\repos\NDP_proje_\NDP_proje_\bin\Debug\NDP_proje_.exe
+C:\Users\omarg\source\repos\NDP_proje_\NDP_proje_\bin\Debug\NDP_proje_.pdb
+C:\Users\omarg\source\repos\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.exe
+C:\Users\omarg\source\repos\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.pdb
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\odev sevda edition\NDP_proje_\NDP_proje_\bin\Debug\NDP_proje_.exe.config
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\odev sevda edition\NDP_proje_\NDP_proje_\bin\Debug\NDP_proje_.exe
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\odev sevda edition\NDP_proje_\NDP_proje_\bin\Debug\NDP_proje_.pdb
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\odev sevda edition\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\odev sevda edition\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.Form1.resources
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\odev sevda edition\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.Properties.Resources.resources
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\odev sevda edition\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\odev sevda edition\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\odev sevda edition\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.exe
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\odev sevda edition\NDP_proje_\NDP_proje_\obj\Debug\NDP_proje_.pdb
